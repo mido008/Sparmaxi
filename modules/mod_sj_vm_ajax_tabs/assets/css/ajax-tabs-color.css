@@ -1,0 +1,58 @@
+.sj-vm-ajax-tabs .tabs-container ul.tabs li .tab {
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.sj-vm-ajax-tabs .tabs-content {
+
+}
+
+.sj-vm-ajax-tabs .tabs-container ul.tabs li .tab {
+	background: #87A7E6;
+	color: #FFFFFF;
+}
+
+.sj-vm-ajax-tabs .tabs-container ul.tabs li .tab:hover {
+}
+
+.sj-vm-ajax-tabs .tabs-container ul.tabs li.selected .tab,
+.sj-vm-ajax-tabs .tabs-container ul.tabs li:hover .tab {
+	background: #3366CC;
+}
+
+.sj-vm-ajax-tabs .pager-container ul.pages li .page {
+	border-color: #3366CC;
+	font-weight: bold;
+	color: #3366CC
+}
+
+.sj-vm-ajax-tabs .pager-container ul.pages li .page.sel {
+	background-color: #3366CC;
+	color: #FFFFFF;
+}
+
+/* .sj-vm-ajax-tabs .item-wrap .item-image img{border-color:#87A7E6;}
+.sj-vm-ajax-tabs .item-wrap .item-image img:hover{border-color:#3366CC;} */
+
+.sj-vm-ajax-tabs .item-wrap .item-description {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.sj-vm-ajax-tabs .item-wrap .item-readmore a {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.sj-vm-ajax-tabs .item-wrap .item-price {
+	font-weight: bold;
+	color: #FF0033;
+	display: inline-block;
+}
+
+.sj-vm-ajax-tabs .item-wrap .item-price .sale-price {
+}
+
+.sj-vm-ajax-tabs .item-wrap .item-price .sale-price-before {
+}

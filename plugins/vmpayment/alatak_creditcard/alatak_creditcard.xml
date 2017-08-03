@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension version="2.5" type="plugin" group="vmpayment" method="upgrade">
+    <name>VM Payment - Offline Credit Card</name>
+    <creationDate>May 2015</creationDate>
+    <author>Valérie Isaksen (www.alatak.net)</author>
+    <authorUrl>http://www.alatak.net</authorUrl>
+    <copyright>Copyright (C) 2012-2015 Alatak.net. All rights reserved</copyright>
+    <license>gpl-2.0.txt</license>
+    <version>2.5.0</version>
+    <description><![CDATA[
+<h1>VM Payment - Offline Credit Card Processing</h1>
+ <p><img src="../plugins/vmpayment/alatak_creditcard/alatak_creditcard/assets/images/cc-offline-logo.png" align="middle"/>
+
+
+<p><a target="_blank"   href="http://demo-vm2.alatak.net/" target="_blank" style="
+    margin: 10px 0;
+    padding: 10px;color: #FFF;
+    border: 1px solid #ed901b;background-color: #ED901B;
+">Demo VM2</a>&nbsp;&nbsp;
+<a target="_blank"   href="http://demo-vm3.alatak.net/" target="_blank" style="
+    margin: 10px 0;
+    padding: 10px;color: #FFF;
+    border: 1px solid #ed901b;background-color: #ED901B;
+">Demo VM3</a>&nbsp;&nbsp;
+<a target="_blank" class="button" href="http://alatak.net/en/tutorials/payments-virtuemart-2-3/offline-credit-card-processing.html" target="_blank" style="
+    margin: 10px 0;
+    padding: 10px;color: #FFF;
+    border: 1px solid #ed901b; background-color: #ED901B;">Tutorial</a><p>
+
+<br/><br/>
+<br/><a href="http://www.alatak.net"><img src="../plugins/vmpayment/alatak_creditcard/alatak_creditcard/assets/images/alatak.png" align="bottom"/><br /> Visit alatak.net for more extensions</a></p>
+
+
+]]></description>
+
+    <files>
+        <filename plugin="alatak_creditcard">alatak_creditcard.php</filename>
+        <folder>alatak_creditcard</folder>
+    </files>
+    <languages folder="language">
+        <language tag="fr-FR">fr-FR/fr-FR.plg_vmpayment_alatak_creditcard.ini</language>
+        <language tag="en-GB">en-GB/en-GB.plg_vmpayment_alatak_creditcard.ini</language>
+    </languages>
+    <params addpath="/administrator/components/com_virtuemart/elements"/>
+    <params addpath="/plugins/vmpayment/alatak_creditcard/alatak_creditcard/elements"/>
+
+    <params>
+        <param type="spacer" default="VMPAYMENT_ALATAK_CREDITCARD" level="level1"/>
+        <param type="getcreditcard" default=""/>
+
+        <param type="vmjpluginwarning"/>
+        <param type="spacer" default="VMPAYMENT_ALATAK_CREDITCARD_MUST_SSL" level="level1"/>
+        <param type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_VIRTUEMART_PARAMS" level="level1"/>
+
+        <param name="creditcards" type="creditcards" default="" label="VMPAYMENT_ALATAK_CREDITCARD_CREDITCARDS"
+               description="VMPAYMENT_ALATAK_CREDITCARD_CREDITCARDS_TIP">
+            <option value="visa">VMPAYMENT_ALATAK_CREDITCARD_VISA</option>
+            <option value="visa_electron">VMPAYMENT_ALATAK_CREDITCARD_VISA_ELECTRON</option>
+            <option value="mastercard">VMPAYMENT_ALATAK_CREDITCARD_MASTERCARD</option>
+            <option value="amex">VMPAYMENT_ALATAK_CREDITCARD_AMERICANEXPRESS</option>
+            <option value="discover">VMPAYMENT_ALATAK_CREDITCARD_DISCOVER</option>
+            <option value="diners_club_international">VMPAYMENT_ALATAK_CREDITCARD_DINERSCLUB_INTERNATIONAL</option>
+            <option value="diners_club_carte_blanche">VMPAYMENT_ALATAK_CREDITCARD_DINERSCLUB_CARTEBLANCHE</option>
+            <option value="jcb">VMPAYMENT_ALATAK_CREDITCARD_JCB</option>
+            <option value="laser">VMPAYMENT_ALATAK_CREDITCARD_LASER</option>
+            <option value="maestro">VMPAYMENT_ALATAK_CREDITCARD_MAESTRO</option>
+        </param>
+
+
+        <param name="send_to_emails" class="required" type="text" size="50" default="" label="VMPAYMENT_ALATAK_CREDITCARD_SEND_TO_EMAILS"
+               description="VMPAYMENT_ALATAK_CREDITCARD_SEND_TO_EMAILS_TIP"
+                />
+
+
+        <param type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_VIRTUEMART_TEMPLATE" level="level1"/>
+
+        <param name="payment_logos" type="vmfiles" multiple="true" label="VMPAYMENT_ALATAK_CREDITCARD_LOGOS"
+               description="VMPAYMENT_ALATAK_CREDITCARD_LOGOS_TIP"
+               directory="/plugins/vmpayment/alatak_creditcard/alatak_creditcard/assets/images"
+               default="default" hide_default="1" hide_none="1"
+               stripext="0" exclude="^_"/>
+        <param name="css_order_done" type="text" default="vm-button-correct"
+               label="VMPAYMENT_ALATAK_CREDITCARD_CSS_ORDER_DONE"/>
+
+        <param name="include_css" type="radio" default="1" label="VMPAYMENT_ALATAK_CREDITCARD_INCLUDE_CSS"
+               description="VMPAYMENT_ALATAK_CREDITCARD_INCLUDE_CSS_TIP">
+            <option value="0">COM_VIRTUEMART_NO</option>
+            <option value="1">COM_VIRTUEMART_YES</option>
+        </param>
+
+        <param type="spacer" default="" level="level1"/>
+        <param type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_RESTRICTIONS" level="level1"/>
+        <param name="countries" type="vmcountries" scope="com_virtuemart" default=""
+               label="VMPAYMENT_ALATAK_CREDITCARD_COUNTRIES"
+               description="VMPAYMENT_ALATAK_CREDITCARD_COUNTRIES_TIP"/>
+        <param name="min_amount" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_MIN_AMOUNT"
+               description="VMPAYMENT_ALATAK_CREDITCARD_MIN_AMOUNT_TIP"/>
+        <param name="max_amount" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_MAX_AMOUNT"
+               description="VMPAYMENT_ALATAK_CREDITCARD_MAX_AMOUNT_TIP"/>
+        <param name="cost_per_transaction" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_COST_PER_TRANSACTION"
+               description="VMPAYMENT_ALATAK_CREDITCARD_COST_TRANSACTION_TIP"/>
+        <param name="cost_percent_total" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_COST_PERCENT_TOTAL"
+               description="VMPAYMENT_ALATAK_CREDITCARD_COST_PERCENT_TOTAL_TIP"/>
+
+        <param name="tax_id" type="vmtaxes" scope="com_virtuemart" label="VMPAYMENT_ALATAK_CREDITCARD_TAX"
+               description="VMPAYMENT_ALATAK_CREDITCARD_TAX_TIP"/>
+        <param type="spacer" default="" level="level1"/>
+        <param type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_BE_OPTIONS" level="level1"/>
+
+        <param name="order_status_confirmed" type="vmorderstate" scope="com_virtuemart" default="U"
+               label="VMPAYMENT_ALATAK_CREDITCARD_ORDER_CONFIRMED_STATUS"
+               description="VMPAYMENT_ALATAK_CREDITCARD_ORDER_CONFIRMED_STATUS_TIP"/>
+        <param name="order_status_delete_ccinfos" type="vmorderstate" scope="com_virtuemart" default="C"
+               label="VMPAYMENT_ALATAK_CREDITCARD_ORDER_SUCCESS_STATUS"
+               description="VMPAYMENT_ALATAK_CREDITCARD_ORDER_SUCCESS_STATUS_TIP"/>
+
+        <param type="spacer" default="" level="level1"/>
+        <!--param name="debug" type="radio" default="0" label="VMPAYMENT_ALATAK_CREDITCARD_DEBUG"
+               description="VMPAYMENT_ALATAK_CREDITCARD_DEBUG_TIP">
+            <option value="0">COM_VIRTUEMART_NO</option>
+            <option value="1">COM_VIRTUEMART_YES</option>
+        </param-->
+
+    </params>
+
+
+    <vmconfig>
+        <fields name="params">
+
+            <fieldset name="basic" addfieldpath="/plugins/vmpayment/alatak_creditcard/alatak_creditcard/fields">
+                <field type="spacer" default="VMPAYMENT_ALATAK_CREDITCARD" level="level1"/>
+                <field type="spacer" default="VMPAYMENT_ALATAK_CREDITCARD_MUST_SSL" level="level1"/>
+                <field type="getcreditcard" default=""/>
+
+                <field type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_VIRTUEMART_PARAMS" level="level1"/>
+
+                <field name="creditcards" type="list" multiple="true" default=""
+                       label="VMPAYMENT_ALATAK_CREDITCARD_CREDITCARDS"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_CREDITCARDS_TIP">
+                    <option value="visa">VMPAYMENT_ALATAK_CREDITCARD_VISA</option>
+                    <option value="visa_electron">VMPAYMENT_ALATAK_CREDITCARD_VISA_ELECTRON</option>
+                    <option value="mastercard">VMPAYMENT_ALATAK_CREDITCARD_MASTERCARD</option>
+                    <option value="amex">VMPAYMENT_ALATAK_CREDITCARD_AMERICANEXPRESS</option>
+                    <option value="discover">VMPAYMENT_ALATAK_CREDITCARD_DISCOVER</option>
+                    <option value="diners_club_international">VMPAYMENT_ALATAK_CREDITCARD_DINERSCLUB_INTERNATIONAL
+                    </option>
+                    <option value="diners_club_carte_blanche">VMPAYMENT_ALATAK_CREDITCARD_DINERSCLUB_CARTEBLANCHE
+                    </option>
+                    <option value="jcb">VMPAYMENT_ALATAK_CREDITCARD_JCB</option>
+                    <option value="laser">VMPAYMENT_ALATAK_CREDITCARD_LASER</option>
+                    <option value="maestro">VMPAYMENT_ALATAK_CREDITCARD_MAESTRO</option>
+                </field>
+
+
+                <field name="send_to_emails" class="required" type="text" size="50" default=""
+                       label="VMPAYMENT_ALATAK_CREDITCARD_SEND_TO_EMAILS"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_SEND_TO_EMAILS_TIP"
+                        />
+
+                <field type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_VIRTUEMART_TEMPLATE" level="level1"/>
+
+                <field name="payment_logos" type="vmfiles" multiple="true" label="VMPAYMENT_ALATAK_CREDITCARD_LOGOS"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_LOGOS_TIP"
+                       directory="/plugins/vmpayment/alatak_creditcard/alatak_creditcard/assets/images"
+                       default="default" hide_default="1" hide_none="1"
+                       stripext="0" exclude="^_"/>
+                <field name="css_order_done" type="text" default="vm-button-correct"
+                       label="VMPAYMENT_ALATAK_CREDITCARD_CSS_ORDER_DONE"/>
+
+                <field name="include_css" type="radio" default="1" label="VMPAYMENT_ALATAK_CREDITCARD_INCLUDE_CSS"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_INCLUDE_CSS_TIP">
+                    <option value="0">COM_VIRTUEMART_NO</option>
+                    <option value="1">COM_VIRTUEMART_YES</option>
+                </field>
+
+
+                <field type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_RESTRICTIONS" level="level1"/>
+                <field name="countries" type="vmcountries" scope="com_virtuemart" default=""
+                       label="VMPAYMENT_ALATAK_CREDITCARD_COUNTRIES_TIP"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_COUNTRIES_TIP"/>
+                <field name="min_amount" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_MIN_AMOUNT"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_MIN_AMOUNT_TIP"/>
+                <field name="max_amount" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_MAX_AMOUNT"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_MAX_AMOUNT_TIP"/>
+                <field name="cost_per_transaction" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_COST_PER_TRANSACTION"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_COST_TRANSACTION_TIP"/>
+                <field name="cost_percent_total" type="text" label="VMPAYMENT_ALATAK_CREDITCARD_COST_PERCENT_TOTAL"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_COST_PERCENT_TOTAL_TIP"/>
+
+                <field name="tax_id" type="vmtaxes" scope="com_virtuemart" label="VMPAYMENT_ALATAK_CREDITCARD_TAX"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_TAX_TIP"/>
+                <field type="spacer" default="" level="level1"/>
+                <field type="vmtitle" default="VMPAYMENT_ALATAK_CREDITCARD_BE_OPTIONS" level="level1"/>
+
+                <field name="order_status_confirmed" type="vmorderstate" scope="com_virtuemart" default="U"
+                       label="VMPAYMENT_ALATAK_CREDITCARD_ORDER_CONFIRMED_STATUS"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_ORDER_CONFIRMED_STATUS_TIP"/>
+                <field name="order_status_delete_ccinfos" type="vmorderstate" scope="com_virtuemart" default="C"
+                       label="VMPAYMENT_ALATAK_CREDITCARD_ORDER_SUCCESS_STATUS"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_ORDER_SUCCESS_STATUS_TIP"/>
+
+                <!--field name="debug" type="radio" default="0" label="VMPAYMENT_ALATAK_CREDITCARD_DEBUG"
+                       description="VMPAYMENT_ALATAK_CREDITCARD_DEBUG_TIP">
+                    <option value="0">COM_VIRTUEMART_NO</option>
+                    <option value="1">COM_VIRTUEMART_YES</option>
+                </field-->
+
+            </fieldset>
+        </fields>
+    </vmconfig>
+    <updateservers>
+        <!-- Note: No spaces or linebreaks allowed between the server tags -->
+        <server type="extension" name="VirtueMart plg_vmpayment_alatak_creditcard Update Site"><![CDATA[http://www.alatak.net/releases/plg_vmpayment_alatak_creditcard_update.xml]]></server>
+    </updateservers>
+</extension>

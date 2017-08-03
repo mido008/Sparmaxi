@@ -1,0 +1,112 @@
+#ccoffline_form{
+	background-color: #f5f5f5;
+	border: 1px solid #dcdcdc;
+	width: 400px;
+}
+#ccoffline_form ul  {
+    list-style: none !important;
+}
+#ccoffline_form li {
+    margin: 8px 0 !important;
+}
+#ccoffline_form .vertical {
+    overflow: hidden !important;
+}
+#ccoffline_form .vertical input {
+    width: 68px;
+}
+#ccoffline_form .vertical li {
+    float: left;
+    width: 140px;
+
+}
+li.vertical ul {
+    padding: 0 !important;
+    margin:0;
+}
+.vertical li:last-child input {
+    float: right;
+
+}
+.vertical li:last-child   {
+    text-align: right;
+}
+.vertical li .or {
+    color: #AAA;
+    float: left;
+    font-size: 12px;
+    margin-left: -8px;
+    margin-top: 32px;
+}
+#ccoffline_form label {
+    color: #555!important;
+    display: block!important;
+    font-size: 14px!important;
+    font-weight: 400!important;
+}
+#ccoffline_form .card_number {
+    background-image: url(../images/no-creditcard.png), url(../images/valid-invalid.png);
+    background-image: url(/images/vmpayment/cc-offline-logo.png), url(/images/vmpayment/valid-invalid.png);
+    
+    background-position: 0 0, 250px 0;
+    background-position: 0 0, 230px 5px;
+    
+    background-repeat: no-repeat;
+    
+    background-size: 50px 30px,35px  ;
+    background-size: 50px 30px,25px  ;
+    
+    padding-left: 54px;
+    
+    width: 225px;
+    width: 210px;
+}
+
+#ccoffline_form  input {
+    background-color: #FFF;
+    border: 1px solid #E5E5E5;
+    color: #333;
+    display: block;
+    font-size: 18px;
+    font-size: 14px;
+    height: 30px;
+    padding: 0 5px;
+    width: 275px;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+}
+
+#ccoffline_form  .card_number.visa {
+    background-image: url(../images/visa.png),url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+#ccoffline_form .card_number.visa_electron {
+    background-image: url(../images/visa-electron.png),url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+#ccoffline_form .card_number.mastercard {
+    background-image: url(../images/mastercard.png), url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+#ccoffline_form .card_number.maestro {
+    background-image: url(../images/maestro.png),url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+
+#ccoffline_form  .card_number.discover {
+    background-image: url(../images/discover.png),url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+#ccoffline_form  .card_number.amex {
+    background-image: url(../images/amex.png),url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+#ccoffline_form  .card_number.jcb {
+    background-image: url(../images/jcb.png),url(../images/valid-invalid.png);
+    background-position:  0 0,  250px 0;
+}
+/* Valid cards */
+#ccoffline_form  .card_number.valid {
+    background-position: 0 0, 250px -80px;
+}
+

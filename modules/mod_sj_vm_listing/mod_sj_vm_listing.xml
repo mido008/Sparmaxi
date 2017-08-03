@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.7.0" method="upgrade" client="site">
+	<name>Sj Vm Listing</name>
+	<creationDate>January 2012</creationDate>
+	<author>YouTech Company</author>
+	<copyright>Copyright (c) 2012 YouTech Company</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>contact@ytcvn.com</authorEmail>
+	<authorUrl>http://www.smartaddons.com</authorUrl>
+	<version>2.0</version>
+	<description>SJ_XML_DESCRIPTION</description>
+	<files>
+		<filename module="mod_sj_vm_listing">mod_sj_vm_listing.php</filename>
+		<filename>index.html</filename>
+		<folder>assets</folder>
+		<folder>core</folder>
+		<folder>language</folder>
+		<folder>tmpl</folder>
+	</files>
+	<languages />
+	<config>
+		<fields name="params" addfieldpath="/modules/mod_sj_vm_listing/core/fields">
+			<fieldset name="basic">
+				<field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="Module suffix class" />
+				<field name="width_module" type="text" default="510" label="Module Width" description="Width of Module" />
+				<field name="theme" type="list" default="theme1" label="Select a Theme" description="Please select a theme for the module">
+					<option value="theme1">Theme 1</option>
+					<option value="theme2">Theme 2</option>
+					<option value="theme3">Theme 3</option>
+					<option value="theme4">Theme 4</option>
+				</field>
+				<field name="link_target" type="list" default="_self" label="Link Target" description="The Type shows when you click on the link">
+					<option value="_blank">New Window</option>
+					<option value="_self">Same Window</option>
+					<option value="_windowopen">Popup Window</option>
+				</field>
+			</fieldset>
+			<fieldset name="Source Options" label="Source Options">
+				<field name="source_category" type="sjvmcategories" size="10" multiple="multiple" default="" label="Category" description="Select category" />
+				<field name="subcategories" type="radio" default="1" label="Include Subcategories" description="Including products belonging to sub-categories.">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="source_order" type="list" default="group.topten" label="Product Order By" description="Sort product by one of these.">
+					<option value="group.topten">Best sales</option>
+					<option value="group.featured">Featured</option>
+				    <option value="group.latest">Latest</option>
+				    <option value="group.random">Random</option>
+					<option value="ordering">Ordering</option>
+					<option value="product_price">Product Price</option>
+				</field>
+				<field name="source_limit" type="text" default="20" label="Limitation" description="Maximum number of products to display. Enter 0 for unlimited selection." />
+				<field name="nb_cols" type="text" default="2" label="Max Column of Products" description="Max column of products. 1 is minimum." />
+				<field name="nb_rows" type="text" default="3" label="Max Row of Products" description="Max row of products. 1 is minimum." />
+			</fieldset>
+			<fieldset name="Categories Options" label="Categories Options">
+				<field name="cat_title_linkable" type="radio" default="1" label="Title Linkable" description="Make categories title is linkable">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="cat_title_max_characters" type="text" default="0" label="Title Maxlength" description="Max length of title by characters. Enter value 0 if you want to show all. Please enter integer number >= 0." />
+				<field name="item_all_display" type="radio" default="1" label="Link Seeall Products" description="Display a link of all products">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+			</fieldset>
+			<fieldset name="Products Options" label="Products Options">
+				<field name="item_title_display" type="radio" default="1" label="Title Display" description="Display title of product">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_title_max_characters" type="text" default="15" label="Title Maxlength" description="Max length of title by characters. Enter value 0 if you want to show all. Please enter integer number >= 0." />
+				<field name="item_title_linkable" type="radio" default="1" label="Title Linkable" description="Make title is linkable">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_description_display" type="radio" default="1" label="Description Display" description="Display description of product.">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				
+				<field name="item_description_max_characters" type="text" default="200" label="Description Maxlength" description="Max length of description by characters. Enter value 0 if you want to show all. Please enter integer number >= 0." />
+				<field name="item_description_striptags" type="radio" default="1" label="Strip Html Tags" description="Remove all markup in description of item. Choose 'No' if you don't want.">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_description_keeptags" type="textarea" default="" label="Keep on Strip Tags" description="If you are using 'Strip html tags'='Yes'. Please enter &amp;lt;tagname&amp;gt; if you want keep it. Eg: '&amp;lt;p&amp;gt; &amp;lt;a&amp;gt;' for keep p and a" filter="raw" />						
+				
+				<field name="item_show_reviews" type="radio" default="1" label="Display Reviews" description="Display reviews of products">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="price_display" type="radio" default="1" label="Display Prices" description="Display prices">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_readmore_display" type="radio" default="1" label="Products Readmore Link" description="Display a link of products">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_readmore_text" type="text" default="product detail" label="Item Readmore Text" description="Text of readmore link above" />
+				<field type="sjheading" label="Small Images Options" />
+				<field name="item_small_image_display" type="radio" default="1" label="Small Image Display" description="Display small image of item">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_image_linkable" type="radio" default="1" label="Small Image Linkable" description="Make small image is linkable">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="small_image_width" type="text" default="32" label="Small Image Width" description="Width of small image. The module will auto resize your image to your small width" />
+				<field name="small_image_height" type="text" default="32" label="Small Image Height" description="Height of small image. The module will auto resize your image to your small height" />
+				<field name="small_image_background" type="text" default="#FFFFFF" label="Small Image Background Color" description="The default background of image." />
+				<field name="small_image_function" type="sjthumbnailmode" default="none" label="Small Image Resize Mode" description="Image resize mode" />
+				<field type="sjheading" label="For Theme2, Theme3, Theme4" />
+				<field name="item_short_decription_display" type="radio" default="1" label="Short Description Display" description="Display short description of product.">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="item_short_description_max_characters" type="text" default="15" label="Short Description Maxlength" description="Max length of short description by characters. Enter value 0 if you want to show all. Please enter integer number >= 0." />
+				<field type="sjheading" label="For Theme2, Theme4" />
+				<field name="item_image_width" type="text" default="270" label="Large Image Width" description="The width of  image. The module will auto resize your image to your width" />
+				<field name="item_image_height" type="text" default="65" label="Large Image Height" description="The height of image. The module will auto resize your image to your height" />
+				<field name="item_image_background" type="text" default="#FFFFFF" label="Large Image Background Color" description="The default background of image." />
+				<field name="item_image_function" type="sjthumbnailmode" default="none" label="Large Image Resize Mode" description="Image resize mode" />
+			</fieldset>
+			<fieldset name="advanced">
+				<field name="include_jquery" type="radio" default="1" label="Include jQuery" description="Do you want include jQuery library?">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="custom" type="custom" fields="id,url" default="" label="Custom" description="Override url of specific item. Enter ID of item and url will be open. Be careful with this function." />
+				<field name="pretext" type="textarea" default="" label="Pre-text" description="Intro text of module" cols="40" rows="4" filter="raw" />
+				<field name="posttext" type="textarea" default="" label="Post-text" description="Footer text of module" cols="40" rows="4" filter="raw" />
+				<field name="owncache" type="list" default="1" label="COM_MODULES_FIELD_CACHING_LABEL" description="COM_MODULES_FIELD_CACHING_DESC">
+					<option value="1">JGLOBAL_USE_GLOBAL</option>
+					<option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+				<field name="cache_time" type="text" default="900" label="COM_MODULES_FIELD_CACHE_TIME_LABEL" description="COM_MODULES_FIELD_CACHE_TIME_DESC" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>
