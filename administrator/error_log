@@ -1,0 +1,1127 @@
+[04-Dec-2015 23:32:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[04-Dec-2015 23:34:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[04-Dec-2015 23:36:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[08-Dec-2015 09:07:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[15-Jan-2016 08:14:53 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:14:53 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:15:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:15:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:15:29 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:15:29 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:16:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:16:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:16:40 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:16:40 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:34:05 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:34:05 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:34:37 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:34:37 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:35:55 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 08:35:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[15-Jan-2016 08:35:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:35:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:49:32 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 08:49:32 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 09:42:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 09:42:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 15:05:11 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[15-Jan-2016 15:11:48 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[15-Jan-2016 19:38:18 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:38:18 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:38:23 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:38:23 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:58:29 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:58:29 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:58:41 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:58:41 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:59:05 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:59:05 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:59:50 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 19:59:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[15-Jan-2016 19:59:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 19:59:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:00:10 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 20:00:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[15-Jan-2016 20:00:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:00:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:00:37 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 20:00:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1287
+[15-Jan-2016 20:00:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:00:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:06:23 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:06:23 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:07:28 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:07:28 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:23:57 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:23:58 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:28:23 UTC] PHP Fatal error:  Cannot redeclare com_install() (previously declared in /home/sparmaxi/public_html/tmp/install_5699565c43b9c/install.acymailing.php:45) in /home/sparmaxi/public_html/tmp/install_56995667a1f00/install/script.virtuemart.php on line 885
+[15-Jan-2016 20:29:27 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart/virtuemart.xml&quot; in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/updatesmigration.php on line 480
+[15-Jan-2016 20:40:03 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 20:40:03 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:00:57 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:00:57 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:20:13 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:20:13 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:20:46 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:20:46 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:21:26 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 21:21:26 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 22:01:17 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:01:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:01:59 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:02:04 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:02:10 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:03:36 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:09:24 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:43:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:43:44 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 22:44:04 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[15-Jan-2016 23:05:53 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:05:53 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:06:10 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 23:06:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:06:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:06:33 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 23:06:37 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:06:37 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:07:07 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 23:07:59 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:07:59 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:08:41 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:08:41 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:09:06 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 23:09:08 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:09:08 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:29:37 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 23:29:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:29:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:31:52 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:31:52 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:36:22 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:36:22 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:36:27 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:36:27 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:44:09 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:44:09 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:44:22 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[15-Jan-2016 23:44:22 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[15-Jan-2016 23:44:22 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 00:00:07 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[16-Jan-2016 19:59:00 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[16-Jan-2016 19:59:09 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[16-Jan-2016 21:21:55 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:21:55 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:22:04 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:22:04 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:27:24 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:27:24 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:28:06 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[16-Jan-2016 21:28:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[16-Jan-2016 21:28:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:10:30 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:10:31 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:03 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[17-Jan-2016 23:11:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:12 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[17-Jan-2016 23:11:15 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:15 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:23 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:23 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:29 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[17-Jan-2016 23:11:34 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:34 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:42 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:42 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:51 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:11:51 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:12:01 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[17-Jan-2016 23:12:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[17-Jan-2016 23:12:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:16 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:16 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:35 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:35 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:39 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:39 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:39 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:39 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:42 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:42 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:43 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:43 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:43 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:43 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:44 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:44 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:46 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:46 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:47 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:48 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:48 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:48 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:51 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:51 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:52 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:53 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:55 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:53:57 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:08 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:09 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:10 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:12 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:12 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:13 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:15 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:16 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:16 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:17 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:18 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:18 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:56:55 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[18-Jan-2016 14:57:41 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 14:57:41 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:06 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:12 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:12 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:17 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:17 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:34 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:34 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:45 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:45 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:45:56 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:46:02 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:46:02 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[18-Jan-2016 16:50:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[19-Jan-2016 19:35:18 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[19-Jan-2016 19:35:18 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[19-Jan-2016 20:16:57 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[19-Jan-2016 20:16:57 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[19-Jan-2016 20:17:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[19-Jan-2016 20:17:07 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 13:29:05 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[20-Jan-2016 13:29:20 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[20-Jan-2016 13:29:21 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[20-Jan-2016 13:29:21 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[20-Jan-2016 13:29:22 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[20-Jan-2016 13:29:49 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[20-Jan-2016 16:20:21 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:20:21 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:21:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:21:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:23:02 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[20-Jan-2016 16:23:03 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:23:03 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:23:13 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[20-Jan-2016 16:23:13 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:23:14 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:25:01 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:25:01 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:29:43 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:29:43 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:29:48 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[20-Jan-2016 16:29:48 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 03:10:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 03:10:50 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 03:31:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 03:31:38 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 03:31:46 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[22-Jan-2016 03:31:47 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 03:31:47 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 04:18:25 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[22-Jan-2016 04:18:25 UTC] PHP Notice:  Undefined offset: 1 in /home/sparmaxi/public_html/libraries/joomla/form/field.php on line 914
+[25-Jan-2016 14:46:33 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[25-Jan-2016 15:34:40 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:34:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:35:15 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:35:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:35:39 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:35:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:36:58 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:37:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:37:14 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:37:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:37:28 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:37:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:37:52 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[25-Jan-2016 15:38:16 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[28-Jan-2016 08:12:10 UTC] PHP Notice:  Undefined index: en-GB in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:10 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:15 UTC] PHP Notice:  Undefined index: en-GB in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:15 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:19 UTC] PHP Notice:  Undefined index: en-GB in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:19 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:30 UTC] PHP Notice:  Undefined index: en-GB in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:30 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:46 UTC] PHP Notice:  Undefined index: en-GB in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 08:12:46 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/administrator/components/com_virtuemart/helpers/config.php on line 984
+[28-Jan-2016 09:53:39 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 09:53:50 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 09:53:59 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 09:54:13 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 09:54:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 09:54:40 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 09:54:45 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 10:58:16 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[28-Jan-2016 12:30:17 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:30:17 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 12:32:06 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:32:06 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 12:32:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:32:08 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 12:32:17 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:32:17 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 12:32:38 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:32:38 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 12:35:16 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:36:18 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:36:18 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 12:38:05 UTC] PHP Notice:  Undefined offset: 6 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:40:27 UTC] PHP Notice:  Undefined offset: 6 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:43:10 UTC] PHP Notice:  Undefined offset: 6 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:43:52 UTC] PHP Notice:  Undefined offset: 6 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 12:51:02 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:05:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:11:48 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:12:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:15:52 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:16:09 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:53:11 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 13:55:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:09:03 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 14:11:44 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:11:44 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 14:11:44 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 14:11:44 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 14:12:13 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:12:27 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:16:51 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:20:23 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:20:49 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:36:41 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:37:56 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:38:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:38:42 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:39:46 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:40:25 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:40:38 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:41:04 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:41:29 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:43:43 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 14:44:29 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:44:29 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[28-Jan-2016 14:46:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:47:29 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:47:49 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:50:27 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:58:16 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:59:14 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 14:59:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:03:15 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:03:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:05:42 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:05:53 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:08:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:16:45 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:17:55 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:20:39 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/administrator/components/com_virtuemart/plugins/vmplugin.php on line 354
+[28-Jan-2016 15:20:44 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:21:13 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:28:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:36:57 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[28-Jan-2016 15:43:25 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 15:56:18 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:56:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:56:55 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:57:33 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 15:57:58 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 15:59:38 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 16:04:29 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:05:08 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 16:06:07 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 16:11:16 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:11:34 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:12:05 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 16:36:54 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:37:45 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:39:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:41:08 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 16:43:26 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:43:26 UTC] PHP Notice:  Undefined offset: 3 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:43:56 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 16:46:50 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:47:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 16:47:41 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:39:12 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:39:37 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:40:14 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:40:14 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:41:57 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:43:22 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:46:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:46:40 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:47:00 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:47:06 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:47:16 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:49:20 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:51:04 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:52:24 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:53:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 20:55:50 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:58:58 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:59:21 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:59:33 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 20:59:45 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:00:01 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:00:34 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:01:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:03:49 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:07:09 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:07:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:08:44 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:12:04 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:12:23 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:12:55 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:13:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:14:38 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:20:57 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:21:49 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:22:11 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:25:01 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:25:05 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[28-Jan-2016 21:26:24 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:27:23 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:28:28 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:29:34 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[28-Jan-2016 21:31:04 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 07:17:07 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[29-Jan-2016 07:17:12 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[29-Jan-2016 07:17:13 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[29-Jan-2016 08:01:51 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[29-Jan-2016 08:12:13 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[29-Jan-2016 08:17:10 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[29-Jan-2016 11:57:29 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 11:58:11 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 11:58:27 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 11:58:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 11:59:19 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 12:06:28 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:06:39 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:07:17 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 12:34:43 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[29-Jan-2016 12:35:51 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[29-Jan-2016 12:41:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:41:55 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:42:11 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:43:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 12:49:26 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[29-Jan-2016 12:51:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:52:02 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:52:38 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 12:53:30 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 12:54:42 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 12:55:53 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:02:17 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:02:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:02:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:03:18 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:03:33 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:04:30 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:05:58 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:07:13 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:10:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:10:20 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:10:25 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:11:10 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:12:42 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:15:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:15:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:15:37 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:15:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:16:34 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:17:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:20:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:20:59 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:21:30 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 13:24:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:25:34 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:25:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:28:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:28:55 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:29:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 13:29:48 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:02:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:02:55 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:03:37 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:05:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:15:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:15:51 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:16:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:18:00 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:21:14 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:22:29 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:27:02 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:27:21 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:27:31 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:28:16 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:29:22 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:30:23 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:32:46 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:33:17 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:34:39 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:35:12 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:35:48 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:37:14 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:38:52 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:44:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:44:54 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:45:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:46:38 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:48:06 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:49:53 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:50:12 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:52:37 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:53:03 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:53:55 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:55:11 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:56:24 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 14:58:09 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:58:31 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 14:59:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:00:55 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:03:20 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:04:12 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:04:18 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:04:49 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:07:33 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:08:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:08:37 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:09:03 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:12:22 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:15:42 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:16:19 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:16:19 UTC] PHP Notice:  Undefined offset: 3 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:16:19 UTC] PHP Notice:  Undefined offset: 4 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:19:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:25:10 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:25:21 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:26:12 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:27:26 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:35:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:35:19 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:35:31 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:36:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:36:49 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:37:22 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:38:20 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:39:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:40:54 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:42:31 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:43:13 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:43:19 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:43:37 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:43:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:47:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:47:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:50:11 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 15:51:00 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 15:52:08 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 16:03:07 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[29-Jan-2016 19:02:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:02:53 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:04:31 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:05:52 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:07:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:08:56 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:13:35 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:14:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:14:44 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:17:16 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:17:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:17:56 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:18:16 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:18:33 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:22:17 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:23:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:25:20 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:27:29 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:29:48 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:30:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:30:24 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:31:04 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:32:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:33:28 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 19:35:49 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:36:22 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:36:45 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:37:00 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:37:15 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[29-Jan-2016 19:37:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 22:07:41 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[29-Jan-2016 22:08:11 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[30-Jan-2016 12:13:58 UTC] PHP Notice:  Undefined index: nbproducts_start in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 582
+[30-Jan-2016 12:13:58 UTC] PHP Notice:  Undefined index: nbproducts_stop in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 583
+[30-Jan-2016 12:15:19 UTC] PHP Notice:  Undefined index: nbproducts_start in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 582
+[30-Jan-2016 12:15:19 UTC] PHP Notice:  Undefined index: nbproducts_stop in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 583
+[30-Jan-2016 14:30:57 UTC] PHP Notice:  Undefined index: nbproducts_start in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 582
+[30-Jan-2016 14:30:57 UTC] PHP Notice:  Undefined index: nbproducts_stop in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 583
+[30-Jan-2016 14:31:06 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 14:31:22 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 14:31:24 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 14:32:25 UTC] PHP Notice:  Undefined index: user_is_vendor in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 455
+[30-Jan-2016 14:32:25 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 14:51:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[30-Jan-2016 15:51:53 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:52:47 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:52:48 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:54:06 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:55:09 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:55:09 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:56:29 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:56:30 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:57:13 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:57:14 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:57:47 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:57:48 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:58:11 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:58:12 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 15:58:53 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 15:58:54 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 16:00:03 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 16:00:04 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 19:59:45 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:08:32 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:08:33 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:08:52 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:08:53 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:13:03 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:13:03 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:14:25 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:14:26 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:14:45 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:14:45 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:15:48 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:15:49 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:17:55 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:17:56 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:19:37 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:19:38 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:20:40 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:20:40 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:21:13 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:21:14 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:22:01 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:22:02 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:22:17 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:22:17 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:22:49 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:22:50 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:23:13 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:23:14 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 20:24:07 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 20:24:08 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:06:42 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:10:47 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:10:48 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:15:22 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:15:26 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:15:27 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:15:45 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:15:46 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:16:29 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:16:29 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:17:07 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:17:07 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:17:38 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:17:38 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:18:10 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:18:11 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:22:45 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:22:46 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:23:21 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:23:22 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:23:49 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:23:49 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 22:25:07 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 22:25:08 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[30-Jan-2016 23:10:18 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[30-Jan-2016 23:10:19 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[31-Jan-2016 10:02:10 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:02:30 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:02:40 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:03:07 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:05:29 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:05:45 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:05:52 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:06:03 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:06:08 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:07:22 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:27:16 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:27:31 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:28:27 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 10:28:54 UTC] PHP Notice:  Array to string conversion in /home/sparmaxi/public_html/libraries/joomla/table/nested.php on line 973
+[31-Jan-2016 12:25:53 UTC] PHP Notice:  Undefined index: user_is_vendor in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 455
+[31-Jan-2016 12:25:53 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[31-Jan-2016 12:26:25 UTC] PHP Notice:  Undefined index: user_is_vendor in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 455
+[31-Jan-2016 12:26:25 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[31-Jan-2016 12:27:55 UTC] PHP Notice:  Undefined index: user_is_vendor in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 455
+[31-Jan-2016 12:27:55 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[31-Jan-2016 16:19:49 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 16:22:52 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 16:23:59 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[31-Jan-2016 16:31:26 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 16:31:40 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 16:31:59 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 16:39:47 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 16:47:37 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[31-Jan-2016 22:41:04 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[31-Jan-2016 23:01:05 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[31-Jan-2016 23:02:20 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[31-Jan-2016 23:02:20 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[31-Jan-2016 23:03:59 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[31-Jan-2016 23:04:00 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 10:11:23 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[01-Feb-2016 11:54:51 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:04:01 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:04:10 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:04:11 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:04:57 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:04:57 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:05:39 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:05:40 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:06:28 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:06:29 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:19:21 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:19:22 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:19:50 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:19:51 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:40:54 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:42:14 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:42:14 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:42:47 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:42:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:44:06 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:44:07 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:44:38 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:44:39 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 13:47:00 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 13:47:00 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:00:55 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:00:57 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:02:23 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:02:23 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:02:42 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:02:43 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:07:46 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:07:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:08:15 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:08:16 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:08:41 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:08:41 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:10:39 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:10:40 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:12:46 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:12:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:14:28 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:14:29 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:15:07 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:15:07 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 14:15:42 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 14:15:42 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:31:54 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:31:56 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:32:50 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:32:50 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:33:11 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:33:12 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:35:10 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:35:10 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:41:08 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:41:09 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:44:21 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:44:21 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:49:26 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:49:27 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:54:01 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:54:02 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 15:54:30 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 15:54:31 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:45:12 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:45:43 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:45:44 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:48:52 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:48:53 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:50:39 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:50:39 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:51:38 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:52:20 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:52:21 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:53:22 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:53:22 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:54:03 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:54:04 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:54:36 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:54:37 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:55:14 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:55:14 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:55:39 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:55:39 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 18:56:06 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 18:56:07 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:13:55 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:13:56 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:14:25 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:14:26 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:15:13 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:15:14 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:18:07 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:18:08 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:18:42 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:18:42 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:19:55 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:19:55 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:20:32 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:20:33 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:35:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:36:05 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:36:27 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 19:36:27 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:36:27 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:36:41 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:37:02 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:37:02 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:37:55 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:39:18 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:39:18 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:39:47 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:39:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 19:40:13 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[01-Feb-2016 19:40:15 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 20:08:27 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 20:27:54 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:28:26 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:29:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:30:52 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 20:32:33 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 20:34:41 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:34:41 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 20:34:52 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:35:09 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:35:25 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:37:27 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 20:39:36 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 20:40:43 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 20:41:55 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 20:43:11 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 21:37:28 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:37:28 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 21:37:43 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:38:01 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:38:26 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:40:09 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:42:41 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[01-Feb-2016 21:44:40 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 21:49:10 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 21:52:08 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:52:44 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:53:02 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:53:32 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 21:54:12 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:05:18 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:12:25 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:15:31 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:16:32 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:20:02 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:20:21 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:20:41 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:22:27 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:24:14 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:25:09 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:25:20 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:29:41 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:30:25 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:31:47 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:32:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:32:15 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:32:50 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:34:00 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:35:04 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:37:50 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:38:00 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:38:12 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:39:07 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:39:59 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:41:30 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:42:21 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:47:45 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 535
+[01-Feb-2016 22:47:45 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[01-Feb-2016 22:47:45 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[01-Feb-2016 22:47:45 UTC] PHP Notice:  Undefined index: parent_product_as_derived in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 498
+[01-Feb-2016 22:48:46 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:50:26 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 22:51:47 UTC] PHP Notice:  Undefined index: virtuemart_media_id in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/media.php on line 320
+[01-Feb-2016 23:01:53 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[01-Feb-2016 23:02:26 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/administrator/components/com_menus/models/item.php on line 1285
+[02-Feb-2016 14:34:32 UTC] PHP Notice:  Undefined index: associations in /home/sparmaxi/public_html/libraries/legacy/model/admin.php on line 1206
+[02-Feb-2016 15:33:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[04-Feb-2016 14:32:47 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[05-Feb-2016 08:13:05 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[05-Feb-2016 08:13:21 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[05-Feb-2016 08:13:36 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[05-Feb-2016 08:15:47 UTC] PHP Notice:  Undefined index: user_is_vendor in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 455
+[05-Feb-2016 08:15:47 UTC] PHP Notice:  Undefined index: password in /home/sparmaxi/public_html/administrator/components/com_virtuemart/models/user.php on line 470
+[05-Feb-2016 16:47:32 UTC] PHP Notice:  Undefined index: nbproducts_start in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 582
+[05-Feb-2016 16:47:32 UTC] PHP Notice:  Undefined index: nbproducts_stop in /home/sparmaxi/public_html/plugins/vmshipment/weight_countries/weight_countries.php on line 583
+[06-Feb-2016 03:03:08 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[06-Feb-2016 03:05:41 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[06-Feb-2016 03:08:03 UTC] PHP Notice:  Trying to get property of non-object in /home/sparmaxi/public_html/plugins/vmcalculation/avalara/avalara.php on line 1279
+[06-Feb-2016 10:51:12 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:17 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:17 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:21 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:27 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:27 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:32 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:32 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:34 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:34 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:36 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:37 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:39 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:51:39 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:52:32 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:52:33 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:52:36 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:52:36 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:52:39 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:52:39 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:26 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:26 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:42 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:42 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:48 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:49 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:54 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:54:55 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:59:16 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:59:18 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:59:21 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 10:59:34 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:00:37 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:00:42 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:00:43 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:15:29 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:30:10 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:39:15 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:40:04 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:40:48 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:40:48 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:40:51 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:44:30 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:44:31 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:44:32 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:44:54 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:44:58 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:45:07 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:45:07 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:45:22 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:45:24 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:47:39 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:47:42 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:48:08 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 11:48:10 UTC] PHP Strict Standards:  Only variables should be assigned by reference in /home/sparmaxi/public_html/plugins/system/aweb_cart_autosave_j3/aweb_cart_autosave_j3.php on line 46
+[06-Feb-2016 13:27:44 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[06-Feb-2016 13:27:44 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[06-Feb-2016 13:45:25 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[06-Feb-2016 13:45:25 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[06-Feb-2016 14:32:47 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[06-Feb-2016 14:32:47 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[06-Feb-2016 14:39:27 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[06-Feb-2016 14:39:27 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[06-Feb-2016 14:53:47 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[06-Feb-2016 14:53:47 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[06-Feb-2016 16:46:38 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[06-Feb-2016 16:46:38 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[07-Feb-2016 12:39:06 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[07-Feb-2016 12:39:06 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[07-Feb-2016 12:43:45 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[07-Feb-2016 12:43:45 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[18-Feb-2016 22:55:37 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[18-Feb-2016 22:55:37 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[05-Mar-2016 12:54:07 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[05-Mar-2016 12:54:07 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[22-Mar-2016 21:58:02 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[22-Mar-2016 21:58:04 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[27-Mar-2016 11:47:58 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[27-Mar-2016 11:47:58 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[27-Mar-2016 12:20:11 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[27-Mar-2016 12:20:11 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[27-Mar-2016 12:37:11 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[27-Mar-2016 12:37:13 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[27-Mar-2016 12:39:21 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[02-Apr-2016 17:19:28 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[02-Apr-2016 17:19:28 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[22-Apr-2016 09:22:29 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[22-Apr-2016 09:22:31 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[26-Apr-2016 13:07:53 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[26-Apr-2016 13:07:53 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[01-May-2016 12:22:09 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[01-May-2016 12:22:09 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[04-May-2016 08:15:46 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[04-May-2016 08:15:46 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[05-May-2016 11:31:02 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[05-May-2016 11:31:02 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[10-May-2016 22:15:34 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[10-May-2016 22:15:34 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[12-May-2016 19:38:25 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[12-May-2016 19:38:25 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[12-May-2016 20:24:51 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[12-May-2016 20:24:51 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[13-May-2016 20:47:35 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[13-May-2016 20:47:35 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[14-May-2016 12:09:23 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[14-May-2016 12:09:24 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[14-May-2016 18:59:54 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[14-May-2016 18:59:54 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[16-May-2016 11:41:57 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[16-May-2016 11:41:57 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[18-May-2016 21:23:36 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Could not connect to MySQL.' in /home/sparmaxi/public_html/libraries/joomla/database/driver/mysqli.php:169
+Stack trace:
+#0 /home/sparmaxi/public_html/libraries/joomla/database/driver/mysqli.php(227): JDatabaseDriverMysqli->connect()
+#1 /home/sparmaxi/public_html/libraries/joomla/database/driver.php(1488): JDatabaseDriverMysqli->escape('0000-00-00 00:0...')
+#2 /home/sparmaxi/public_html/libraries/cms/module/helper.php(388): JDatabaseDriver->quote('0000-00-00 00:0...')
+#3 /home/sparmaxi/public_html/libraries/cms/module/helper.php(350): JModuleHelper::getModuleList()
+#4 /home/sparmaxi/public_html/libraries/cms/module/helper.php(84): JModuleHelper::load()
+#5 /home/sparmaxi/public_html/administrator/templates/isis/error.php(36): JModuleHelper::getModules('submenu')
+#6 /home/sparmaxi/public_html/libraries/joomla/document/error/error.php(142): require_once('/home/sparmaxi/...')
+#7 /home/sparmaxi/public_html/libraries/joomla/document/error/error.php(113): JDocumentE in /home/sparmaxi/public_html/libraries/joomla/database/driver/mysqli.php on line 169
+[26-May-2016 11:57:38 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[26-May-2016 11:57:38 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[26-May-2016 12:25:00 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[26-May-2016 12:42:04 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[26-May-2016 12:42:04 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[26-May-2016 12:42:05 UTC] PHP Notice:  Undefined variable: mosConfig_live_site in /home/sparmaxi/public_html/administrator/components/com_virtuemart/views/user/tmpl/edit_shopper.php on line 294
+[26-May-2016 12:43:12 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[26-May-2016 12:43:12 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[26-May-2016 12:43:48 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[26-May-2016 12:43:48 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/standard/standard.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/standard): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/klarna/klarna.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/klarna): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/klarnacheckout/klarnacheckout.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/klarnacheckout): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/sofort/sofort.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/sofort): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/paypal/paypal.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/paypal): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/heidelpay/heidelpay.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/heidelpay): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/paybox/paybox.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/paybox): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/tco/tco.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/tco): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/amazon/amazon.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/amazon): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/system/amazon/amazon.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/system/amazon): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/realex_hpp_api/realex_hpp_api.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/realex_hpp_api): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmuserfield/realex_hpp_api/realex_hpp_api.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmuserfield/realex_hpp_api): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/skrill/skrill.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/skrill): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/authorizenet/authorizenet.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/authorizenet): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/sofort_ideal/sofort_ideal.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/sofort_ideal): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/klikandpay/klikandpay.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmpayment/klikandpay): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmshipment/weight_countries/weight_countries.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmshipment/weight_countries): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmcustom/textinput/textinput.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmcustom/textinput): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmcustom/specification/specification.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmcustom/specification): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmcalculation/avalara/avalara.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/vmcalculation/avalara): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/search/virtuemart/virtuemart.xml&quot; in /home/sparmaxi/public_html/libraries/cms/installer/installer.php on line 2154
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/plugins/search/virtuemart): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/modulesBE): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/modules): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[26-May-2016 12:48:41 UTC] PHP Warning:  opendir(/home/sparmaxi/public_html/administrator/components/com_virtuemart_allinone/libraries): failed to open dir: No such file or directory in /home/sparmaxi/public_html/tmp/install_5746f0953f13b/admin/script.vmallinone.php on line 762
+[19-Jun-2016 15:42:45 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[19-Jun-2016 15:42:45 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[19-Jun-2016 23:00:34 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[19-Jun-2016 23:00:34 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[22-Jun-2016 11:41:11 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[22-Jun-2016 11:41:11 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[22-Jun-2016 21:23:57 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[22-Jun-2016 21:23:57 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[28-Jun-2016 16:38:59 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[28-Jun-2016 16:38:59 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[28-Jun-2016 23:33:02 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[28-Jun-2016 23:33:02 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[29-Jun-2016 10:55:04 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[29-Jun-2016 10:55:04 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[24-Jul-2016 07:29:55 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[24-Jul-2016 07:29:56 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[24-Jul-2016 14:40:48 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[24-Jul-2016 14:40:48 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[26-Jul-2016 22:54:38 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[26-Jul-2016 22:54:38 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[01-Aug-2016 08:44:59 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[01-Aug-2016 08:44:59 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[01-Aug-2016 08:53:20 UTC] PHP Fatal error:  Cannot redeclare com_install() (previously declared in /home/sparmaxi/public_html/tmp/install_579f0dee4b9a8/install.acymailing.php:45) in /home/sparmaxi/public_html/tmp/install_579f0e00a88f5/script.tcpdf.php on line 156
+[05-Sep-2016 22:54:06 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[05-Sep-2016 22:54:06 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[20-Oct-2016 18:27:17 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[20-Oct-2016 18:27:17 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[23-Dec-2016 15:49:45 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[23-Dec-2016 15:49:45 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[23-Dec-2016 20:25:21 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[23-Dec-2016 20:40:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[23-Dec-2016 20:43:20 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[23-Dec-2016 20:50:04 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[23-Dec-2016 20:52:30 UTC] PHP Notice:  Undefined offset: 2 in /home/sparmaxi/public_html/plugins/vmcustom/stockablecustomfields/stockablecustomfields.php on line 534
+[24-Dec-2016 15:30:49 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[24-Dec-2016 15:30:49 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[13-Mar-2017 07:24:37 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[13-Mar-2017 07:24:37 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[15-Apr-2017 09:59:47 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[15-Apr-2017 09:59:47 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[22-Apr-2017 11:25:03 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[22-Apr-2017 11:25:03 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[07-Jun-2017 23:38:19 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[07-Jun-2017 23:38:19 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[07-Jun-2017 23:40:26 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[07-Jun-2017 23:40:26 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[07-Jun-2017 23:42:57 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[07-Jun-2017 23:42:57 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[14-Jun-2017 16:45:58 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[14-Jun-2017 16:45:58 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[03-Aug-2017 12:07:39 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[03-Aug-2017 12:07:39 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
+[03-Aug-2017 12:48:28 UTC] PHP Notice:  Undefined variable: dbdate in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 195
+[03-Aug-2017 12:48:29 UTC] PHP Notice:  Undefined variable: data in /home/sparmaxi/public_html/plugins/user/aweb_recallcart_j3/aweb_recallcart_j3.php on line 197
