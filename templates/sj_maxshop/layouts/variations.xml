@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout type="mr">	
+	<head>
+	</head>
+	<groups>
+		<group class="col-md-3" >left</group>
+		<group class="col-md-3" >right</group>
+		<group 
+			   class="col-md-6" 
+			   noright-class="col-md-9 col-sm-12"
+			   noleft-class="col-md-9 col-sm-12"
+			   noleftright-class="col-sm-12">main</group>
+	</groups>
+	<blocks>			
+		<top html5tag="section" order="1" id="yt_top">
+			<positions>
+				<position class="col-md-6" type="modules" style="ytmod" >top-left</position>
+				<position class="col-md-6" type="modules" >top-right</position>
+			</positions>
+		</top>					
+		<header html5tag="header" order="2" id="yt_header" >
+			<positions>
+				<position class="col-md-5 col-sm-5" type="modules" >header-left</position>
+				<position class="col-md-4 col-sm-4" type="feature">@logo</position>
+				<position class="col-md-3 col-sm-3" type="modules" >header-right</position>
+			</positions>
+		</header>
+		
+		<menu html5tag="nav" order="3" id="yt_menuwrap">
+			<positions>
+				
+				<position class="col-md-12 col-sm-12" type="feature">@mainmenu</position>
+                <position class="col-md-3 col-sm-4" type="modules" style="ytmod" >menu-right</position>
+                
+			</positions>
+		</menu>
+		
+		<breadcrumb html5tag="section" order="4" id="yt_breadcrumb">
+			<positions>
+				<position class="col-sm-12" type="modules"  style="ytmod" >breadcrumb</position>
+			</positions>
+		</breadcrumb>
+			
+		<content html5tag="section" order="5" id="content">
+			<positions>
+				<position group="left"  type="modules"  style="ytmod" >left</position>
+				<position group="main"  type="message"></position>							
+				<position group="main" type="modules">main</position>
+				<position group="main"  type="component">component</position>
+                <position group="main" class="col-md-4 col-sm-4" style="ytmod" type="modules">top1</position>
+				<position group="main" class="col-md-4 col-sm-4" style="ytmod" type="modules">top2</position>
+				<position group="main" class="col-md-4 col-sm-4" style="ytmod" type="modules">top3</position>
+				
+				<position group="right" type="modules"  style="ytmod" >right</position>
+			</positions>
+		</content>
+		
+		
+			
+        <spotlight5 html5tag="section" order="9" id="yt_spotlight5">
+            <positions>
+                <position class="col-md-3 col-sm-3" style="ytmod" type="modules">bottom4</position>
+                <position class="col-md-9 col-sm-9" style="ytmod" type="modules">bottom5</position>
+                
+            </positions>
+        </spotlight5>
+		
+        <spotlight6 html5tag="section" order="10" id="yt_spotlight6">
+            <positions>
+                <position class="col-md-3 col-sm-3" style="ytmod" type="modules">bottom6</position>
+                <position class="col-md-3 col-sm-3" style="ytmod" type="modules">bottom7</position>
+                <position class="col-md-3 col-sm-3" style="ytmod" type="modules">bottom8</position>
+                <position class="col-md-3 col-sm-3" style="ytmod" type="modules">bottom9</position>
+            </positions>
+        </spotlight6>
+        
+        <footer html5tag="footer" order="13" id="yt_footer">
+            <positions>
+                <position class="col-md-8 col-sm-12" type="feature">@copyright</position>
+                <position class="col-md-4 col-sm-12" type="modules">footer</position>
+            </positions>
+        </footer>
+	</blocks>
+</layout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

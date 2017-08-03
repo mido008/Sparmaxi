@@ -1,0 +1,229 @@
+/*******************************************
+***          YT Framework: less          ***
+*******************************************/
+
+// --* Layouts Templates *-----------------
+// ----------------------------------------
+/*   1.Block Header
+ *   2.Block Mainmenu
+ *   3.Block Slideshow
+ *   4.Block Breadcrumb
+ *   5.Block Main Content
+ *   6.Block Spotlight
+ *   7.Block Footer
+ *   8.Non-responsive
+ */
+
+
+body{ color: #666; font-size: 12px;}
+
+
+
+//1.Block Header
+#yt_header{padding: 23px 0;
+    
+     .logo-text{
+          .site-text{font-size: 24px; font-weight: 600;}
+          .site-slogan{text-align: center;color: #999;  letter-spacing:2px;}
+     }
+     #yt_logo {display: inline-block; margin-top: 2px; a {}}
+}
+ // Search & Minicar Pro
+ #header-right{
+ 	
+ }
+ 
+#yt_top{
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+	#top-left{
+		float: left;
+	}
+	#top-right{
+		float: right;
+	}
+}  
+#yt_breadcrumb{
+     margin-bottom: 18px;
+}
+//2.Block Mainmenu
+#yt_menuwrap{background: #444;margin: 0 0 30px;.box-shadow(1px 1px 4px rgba(0, 0, 0, 0.2)); position: relative; z-index: 10;
+     #login .module  {margin: 0;float: right;}
+     .row {
+         position: relative;
+         #menu-right {
+             position: absolute;
+             right: 0;
+             z-index: 9999;
+             top: 0;
+         }
+     }
+
+}
+#yt_menuwrap.menu-fixed{width: 100%;margin: 0;position: fixed;top: 0;left: 0;z-index: 10;
+     //#translucent .background(#23262d,0.95); //Extend Mixins translucent mixins.less
+}
+
+#yt_mainmenu{
+	
+}
+//3.Block Slideshow
+
+
+//4.Block Breadcrumb
+#breadcrumb{
+     .breadcrumb{margin: 0;padding: 0;
+          a{
+               .linkGray(); //Extend Mixins linkGray utilities.less
+          }
+     }
+}
+
+//5.Block Main Content
+#content {
+    #yt_component {margin-bottom: 30px;}
+}
+.homepage {
+    #content {
+        #yt_component {margin-bottom: 0px;}
+    }
+}
+.com_content{
+     #yt_component{
+          margin-bottom: 30px;
+          overflow: hidden;
+     }
+     #right .bg1 {padding-bottom: 0px;}
+}
+
+//6.Block Spotlight 
+#yt_spotlight5{
+     background: #444;
+     color: #fff;
+     .module {
+         margin: 0;
+         &.newsletter .modcontent {padding: 12px 0;}
+     }
+}
+#yt_spotlight6 {
+	background: #eee;
+    padding-top: 30px;
+    div.logo-footer{
+        background: url(@{base-url}/logo.png) no-repeat left center;
+        height: 24px;
+        margin-bottom: 15px;
+        margin-top: 8px;
+    }
+    .module {
+        position: relative;
+        &:before {
+            content: "";
+            border-left: 1px solid #ddd;
+            position: absolute;
+            left: -30px;
+            height: 190px;
+        }
+        h3.modtitle {
+            font-size: 18px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+    }
+    #bottom6 .module {
+        &:before {display: none; border: none;}
+        .modcontent {padding-right: 20px;}
+    }
+    ul.menu {
+        padding: 0;
+        margin: 0;
+        li {
+            list-style: none;
+            position: relative;
+            padding-left: 13px;
+            text-transform: capitalize;
+            line-height: 28px;
+            a {color: #444;}
+            &:hover {
+                color: @linkColor;
+                a {color: @linkColor;}
+            }
+            &:before {
+                content: "\f101";
+                font-family: "fontAwesome";
+                display: block;
+                position: absolute;
+                left: 0;
+            }
+        }
+    }
+    ul.block-content {
+        padding: 0;
+        margin: 0 0 35px;
+        li {
+            list-style: none;
+            line-height: 24px;
+            .fa {
+                float: left;
+                line-height: 24px;
+                color: @linkColor;
+                font-size: 13px;
+            }
+            &.phone .fa{font-size: 20px;}
+        }
+        
+    }
+    div.block-payment {
+        float: left;
+        a {
+            background: none;
+            text-indent: 0;
+            font-size: 0;
+            color: #444;
+            &:before {font-size: 26px;}
+            &:hover {color: @linkColor;}
+        }
+    }
+}
+
+//7.Block Footer
+#yt_footer{background: #ddd;padding: 11px 0 12px;
+     #yt_copyright {color: #444;
+          a {color: @linkColor;
+          }
+          .yt-logo{margin: 5px 15px 0 0;float: left;}
+          .copyright,.designby{display: inline;font-size: 12px;color: #444;}
+          .copyright_middle{margin-top: 18px;display: inline-block;}
+          .powered-by{font-size: 12px;}
+     }
+     #footer{
+          .yt-socialbt{
+               padding: 3px;
+               margin-right: 5px;
+               .border-radius(30px);//Extend Mixins mixins utilities.less
+               
+               a{color: @grayLight;width:32px;height: 32px;border: none;box-shadow: none;
+                    i{display: inline-block;vertical-align: middle;margin-top: -2px;font-size: 17px;}
+                    &.facebook{background-color: #4d6baa;color: @white;
+                         &:hover {background-color: lighten(#4d6baa,15%);}
+                    }
+                    &.twitter {background-color: #4fc6f8;color: @white;
+                         &:hover {background-color: lighten(#4fc6f8,15%);}
+                    }
+                    &.google-plus{background-color: #ea6060;color: @white;
+                         &:hover {background-color: lighten(#ea6060,15%);}
+                    }
+                    &.linkedin{background-color: #238cc8;color: @white;
+                         &:hover {background-color: lighten(#238cc8,15%);}
+                    }
+               }
+          }
+     }  
+}
+.com_tags{
+     margin-top: 30px;
+}
+
+//8.Non-responsive Bootstrap
+@media  (max-width: 1024px) {.no-res{width: 1190px; }}
+
+.vm-col-1 {width: 100%;} 
