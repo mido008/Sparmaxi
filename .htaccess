@@ -1,0 +1,7 @@
+
+SetEnv PHPRC /home/sparmaxi/php.ini
+
+<FilesMatch "\.json$">
+ Order deny,allow
+ Deny from all
+</FilesMatch>
