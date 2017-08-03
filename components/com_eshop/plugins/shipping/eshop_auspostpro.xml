@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install version="1.0" type="eshopplugin" group="shipping">
+	<name>eshop_auspostpro</name>
+	<title>Australia Post Pro Shipping</title>
+	<author>Giang Dinh Truong</author>
+	<creationDate>May 2013</creationDate>
+	<copyright>Copyright 2013 Ossolution Team</copyright>
+	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2</license>
+	<authorEmail>contact@joomdonation.com</authorEmail>
+	<authorUrl>www.joomdonation.com</authorUrl>
+	<version>1.4.1</version>
+	<description>This is professional Australia Post Shipping method for Eshop</description>
+	<config>
+		<fields name="params" addfieldpath="/administrator/components/com_eshop/elements/">
+			<fieldset name="basic">
+				<field name="auspost_standard" type="list" label="Standard Postage" description="" default="1">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_registered" type="list" label="Registered Postage" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_insured" type="list" label="Registered Postage with insurance" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_express" type="list" label="Express Postage" description="" default="1">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_sea" type="list" label="International Sea Postage" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_air" type="list" label="International Air Postage" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_satchreg" type="list" label="Standard Postage (Prepaid Satchels)" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_satcheby" type="list" label="eBay Flat Rate Postage (Prepaid Satchels)" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_satchexp" type="list" label="Express Postage (Prepaid Satchels)" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_satchpla" type="list" label="Express Postage Platinum (Prepaid Satchels)" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_multiple" type="list" label="Multiple Parcels If Cart Over 20kg" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_postcode" type="text" label="* Origin Post Code" description="" size="5" default="0000" maxlength="4"></field>
+				<field name="auspost_handling" type="text" label="Handling Charge" description="" size="5" default="" maxlength="5"></field>
+				<field name="auspost_estimate" type="list" label="Display Delivery Estimate (At Checkout)" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_stripgst" type="list" label="Handle GST locally" description="" default="0">
+					<option value="1">Enabled</option>
+					<option value="0">Disabled</option>
+				</field>
+				<field name="auspost_taxclass_id" type="eshoptaxclass" label="Tax Class"></field>
+				<field name="auspost_geozone_id" type="eshopgeozone" label="Geo Zone"></field>
+			</fieldset>
+		</fields>
+	</config>
+	<files>
+		<filename>eshop_auspostpro.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB.plg_eshop_auspostpro.ini</language>
+	</languages>
+	<installsql />
+	<installfile />
+</install>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install version="1.0" type="eshopplugin" group="payment">
+	<name>os_creditcard</name>
+	<title>Offline Credit Card Processing</title>
+	<author>Giang Dinh Truong</author>
+	<creationDate>20-04-2014</creationDate>
+	<copyright>Copyright 2012 Ossolution Team</copyright>
+	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2</license>
+	<authorEmail>contact@joomdonation.com</authorEmail>
+	<authorUrl>www.joomdonation.com</authorUrl>
+	<version>1.4.1</version>
+	<description>This payment plugin collects the Credit Card information from customers and send it to administrator for offline processing.</description>
+	<config>
+		<fields name="params" addfieldpath="/administrator/components/com_eshop/elements/">
+			<fieldset name="basic">
+				<field name="payment_fee" type="text" default="0" size="10" label="Payment Fee" description="Please enter extra payment fee for this payment method. You can enter a fixed fee (example: 10) or percentage fee (example: 10%) of Sub Total."></field>
+				<field name="min_sub_total" type="text" default="0" size="10" label="Minimum Sub Total" description="Enter minimum of Sub Total before Payment Fee is removed."></field>
+				<field name="taxclass_id" type="eshoptaxclass" label="Tax Class"></field>
+				<field name="geozone_id" type="eshopgeozone" label="Geo Zone"></field>
+			</fieldset>
+		</fields>
+	</config>
+	<files>
+		<filename>os_creditcard.php</filename>				
+	</files>	
+</install>
